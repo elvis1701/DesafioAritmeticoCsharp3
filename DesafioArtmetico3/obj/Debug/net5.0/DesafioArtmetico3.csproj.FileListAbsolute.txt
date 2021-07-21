@@ -1,0 +1,15 @@
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\bin\Debug\net5.0\DesafioArtmetico3.exe
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\bin\Debug\net5.0\DesafioArtmetico3.deps.json
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\bin\Debug\net5.0\DesafioArtmetico3.runtimeconfig.json
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\bin\Debug\net5.0\DesafioArtmetico3.runtimeconfig.dev.json
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\bin\Debug\net5.0\DesafioArtmetico3.dll
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\bin\Debug\net5.0\ref\DesafioArtmetico3.dll
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\bin\Debug\net5.0\DesafioArtmetico3.pdb
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\obj\Debug\net5.0\DesafioArtmetico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\obj\Debug\net5.0\DesafioArtmetico3.AssemblyInfoInputs.cache
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\obj\Debug\net5.0\DesafioArtmetico3.AssemblyInfo.cs
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\obj\Debug\net5.0\DesafioArtmetico3.csproj.CoreCompileInputs.cache
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\obj\Debug\net5.0\DesafioArtmetico3.dll
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\obj\Debug\net5.0\ref\DesafioArtmetico3.dll
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\obj\Debug\net5.0\DesafioArtmetico3.pdb
+C:\Users\elvis\source\repos\DesafioArtmetico3\DesafioArtmetico3\obj\Debug\net5.0\DesafioArtmetico3.genruntimeconfig.cache
